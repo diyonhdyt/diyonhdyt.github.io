@@ -121,7 +121,8 @@ img.left{
 }
 .kotak{
 	background-color: salmon;
-	border: 1px solid green;
+	border: 1px solid #535353;
+	border-bottom: 0px;
 }
 .kotak p{
 	text-align: center;
@@ -129,6 +130,7 @@ img.left{
 }
 .kotak2{
 	background-color: lightblue;
+	border: 1px solid #535353;
 }
 .kotak2 p{
 	text-align: center;
